@@ -1,0 +1,55 @@
+body {
+  background-image: url(../images/bg.png);
+}
+
+.quote-box {
+  background-color: white;
+  color:#2c3e50;
+  margin: auto;
+  width: 50%;
+  margin-top: 15%;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.quote-text {
+  text-align: center;
+  color: #2c3e50;
+  font-size: 2em;
+  margin: 10px;
+}
+
+.quote-author {
+  text-align: right;
+  padding: 10px;
+}
+
+footer {
+  text-align: center;
+  margin: auto;
+  width: 70%;
+  padding-top: 15px;
+}
+
+footer {
+  color: white;
+}
+
+footer a {
+  color: white;
+}
+
+.button {
+  background-color: #2c3e50;
+  color: white;
+}
+
+.button:hover {
+  background-color: white;
+  color: #2c3e50;
+  border: 2px solid #2c3e50;
+}
+
+.next {
+  float: right;
+}
